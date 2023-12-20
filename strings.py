@@ -20,3 +20,5 @@ print("Lets use a for loop\n")
 
 for char in friendName2:
   print(char)
+
+
